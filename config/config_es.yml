@@ -1,5 +1,5 @@
 language: spanish
-path: /opt/SlackGlossaryBot/SlackGlossaryBot/glossary/glossarydefs_es.csv
+path: SlackGlossaryBot/glossary/glossarydefs_es.csv
 file_type: csv
 # Print similar keywords, given a match fraction.
 similarity: 0.8
